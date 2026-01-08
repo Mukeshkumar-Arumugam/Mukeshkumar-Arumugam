@@ -1,5 +1,5 @@
 # About Me:
-I’m a Computer Science student and AI/Telecom enthusiast with hands-on experience in machine learning, data analysis, and system-level problem solving. I enjoy building end-to-end solutions—from data preprocessing and model development to visualization and deployment.
+I’m a Computer Science student and AI/Telecom enthusiast with hands-on experience in machine learning, data analysis, and system-level problem solving. I enjoy building end-to-end solutions from data preprocessing and model development to visualization and deployment.
 
 My interests lie at the intersection of AI, Large Language Models (LLMs), and Telecom systems, where I’ve worked on tasks such as log analysis, root cause analysis, benchmark creation, and applied ML workflows. I’m passionate about turning raw data into meaningful insights and building tools that solve real-world problems.
 
